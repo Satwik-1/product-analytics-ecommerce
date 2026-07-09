@@ -184,6 +184,23 @@ Based on the analyses performed throughout this project:
 
 ---
 
+## Techniques Used
+
+- Data cleaning and preprocessing
+- SQL joins, CTEs, window functions, and aggregations
+- Exploratory data analysis (EDA)
+- Conversion funnel analysis
+- Product category performance analysis
+- Cohort retention analysis
+- Behavioral segmentation
+- KPI and North Star Metric selection
+- Product metrics hierarchy
+- AARRR framework
+- Experimentation roadmap
+- Executive business recommendations
+
+---
+
 # How to Run
 
 ```bash
