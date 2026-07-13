@@ -141,6 +141,10 @@ Based on the analyses performed throughout this project:
 4. Develop retention strategies targeting high-value Power Users.
 5. Validate proposed product changes through A/B testing before deployment.
 
+## Behavioral Interpretation & Future Work
+
+The largest opportunity for improvement occurred between product views and add-to-cart actions, suggesting meaningful behavioral friction during the purchase journey. Potential explanations include uncertainty, insufficient product information, choice overload, or low purchase confidence. These hypotheses motivate future A/B experiments designed to identify which product changes most effectively improve customer decision-making and conversion.
+
 ---
 
 # Skills Demonstrated
